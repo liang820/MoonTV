@@ -230,6 +230,7 @@
             "name": "TV-黑木耳点播",
             "api": "https://json02.heimuer.xyz/api.php/provide/vod",
             "detail": "https://json02.heimuer.xyz"
-        },
+        }
+       
     }
 }
